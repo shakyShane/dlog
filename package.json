@@ -1,0 +1,22 @@
+{
+  "name": "dlog",
+  "version": "1.0.0",
+  "description": "debugging for console output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shakyShane/dlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakyShane/dlog/issues"
+  },
+  "homepage": "https://github.com/shakyShane/dlog",
+  "dependencies": {
+    "tfunk": "^2.1.0"
+  }
+}
