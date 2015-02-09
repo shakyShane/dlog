@@ -1,5 +1,5 @@
 {
-  "name": "dlog",
+  "name": "d-logger",
   "version": "1.0.0",
   "description": "debugging for console output",
   "main": "index.js",

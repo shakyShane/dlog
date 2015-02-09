@@ -1,6 +1,11 @@
 var tfunk   = require("tfunk");
 
 function debugOutput (string) {
+
+    if (typeof string !== "string") {
+        string = String(string);
+    }
+
     var end1 = "   ";
     var end2 = "  ";
     var end3 = " ";
